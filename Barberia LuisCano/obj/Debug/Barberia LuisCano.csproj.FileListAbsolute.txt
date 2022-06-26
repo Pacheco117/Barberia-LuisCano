@@ -1,0 +1,81 @@
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.AssemblyReference.cache
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambiarDatos.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Clientes.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Lista.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.ListaClientes.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login1.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login2.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Menu.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Properties.Resources.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Servicios.resources
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.GenerateResource.cache
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CoreCompileInputs.cache
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe.config
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.pdb
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.exe
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.pdb
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\MySql.Data.dll
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\Google.Protobuf.dll
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\bin\Debug\MySql.Data.xml
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CopyComplete
+C:\Users\Asistente GAF\source\repos\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambioPrecio.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambiarDatos.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambioPrecio.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Clientes.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Lista.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.ListaClientes.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login1.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login2.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Menu.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Properties.Resources.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Servicios.resources
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.GenerateResource.Cache
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe.config
+C:\Users\SERRALTA\Desktop\PROJECT\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csprojResolveAssemblyReference.cache
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe.config
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.pdb
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\MySql.Data.dll
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\Google.Protobuf.dll
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\bin\Debug\MySql.Data.xml
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.AssemblyReference.cache
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambiarDatos.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambioPrecio.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Clientes.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Lista.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.ListaClientes.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login1.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login2.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Menu.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Properties.Resources.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Servicios.resources
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.GenerateResource.cache
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CoreCompileInputs.cache
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CopyComplete
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.exe
+C:\Users\Asistente GAF\Desktop\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.pdb
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe.config
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.exe
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\bin\Debug\Barberia LuisCano.pdb
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\bin\Debug\Google.Protobuf.dll
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\bin\Debug\MySql.Data.xml
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.AssemblyReference.cache
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambiarDatos.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.CambioPrecio.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Clientes.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Lista.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.ListaClientes.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login1.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Login2.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Menu.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Properties.Resources.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia_LuisCano.Servicios.resources
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.GenerateResource.cache
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.csproj.CopyComplete
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.exe
+C:\Users\Ramiro Sánchez\OneDrive\Escritorio\Proyecto\Barberia LuisCano\Barberia LuisCano\obj\Debug\Barberia LuisCano.pdb
